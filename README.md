@@ -69,9 +69,7 @@ The dataset used is the **Iris dataset**, one of the most well-known datasets in
 
 Below are some sample visualizations generated from the notebook:
 
-<img width="1920" height="1048" alt="Screenshot from 2025-08-06 18-47-41" src="https://github.com/user-attachments/assets/17f01d2d-20f1-4b13-b0bc-d6c9a9558bf8" />
-<img width="1920" height="1048" alt="Screenshot from 2025-08-06 18-47-51" src="https://github.com/user-attachments/assets/e9b4a231-9908-44b3-ad6e-69f46e59afb8" />
-<img width="1920" height="1080" alt="Screenshot from 2025-08-06 19-04-08" src="https://github.com/user-attachments/assets/933c933b-f855-4f2d-928c-7b389bfe5948" />
+
 <img width="1920" height="1080" alt="Screenshot from 2025-08-06 19-03-38" src="https://github.com/user-attachments/assets/6ef9f45f-0245-42c2-a8dd-7d49cb13b9a5" />
 <img width="1920" height="1080" alt="Screenshot from 2025-08-06 19-03-54" src="https://github.com/user-attachments/assets/fd9dacb3-0394-4e07-8dfe-82db77f58bf4" />
 <img width="1920" height="1080" alt="Screenshot from 2025-08-06 19-04-20" src="https://github.com/user-attachments/assets/de4fe700-dda8-4a23-af4b-e97f431aef35" />
